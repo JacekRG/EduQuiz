@@ -3,4 +3,5 @@
 Original repository location:
 https://github.com/StormITpl/EduQuiz
 
-Please send an access request
+Please send an access request to:
+jacek_rglsk@prokonto.pl
