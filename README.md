@@ -1,7 +1,6 @@
-***** The repository is not available due to security issues *****
+***** The repository is not available here due to security issues *****
 
-Original repository location:
-https://github.com/StormITpl/EduQuiz
+The group project can be found at https://github.com/StormITpl/EduQuiz
 
-Please send an access request to:
+If access is not possible, please write a message to the following address:
 jacek_rglsk@prokonto.pl
